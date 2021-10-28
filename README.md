@@ -1,0 +1,1 @@
+In this project, I will be crafting a simple website consisting of a homepage that leads to multiple different recipes which are given on other web pages of the website.  At first, I expect to only use HTML meaning it will not be visually appealing.  I expect to demonstrate my HTML skills with this website.
